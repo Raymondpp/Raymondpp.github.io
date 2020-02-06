@@ -35,7 +35,7 @@ class Resume extends Component {
 
                 </Document>
                 <div className="resume-download">
-                <a href="../Raymond Zhou-CV.pdf" target="_blank">
+                <a href="../RaymondZhou-CV.pdf" target="_blank">
                     <i className="fa fa-download" aria-hidden="true" /> 
                     Download My Resume
                 </a>

@@ -23,7 +23,7 @@ class Projects extends Component {
                     </CardText>
                         <CardActions border>
 
-                            <Button colored href='https://google.com' target="_balank">Github</Button>
+                            <Button colored href='https://github.com/Raymondpp/Raymondpp.github.io' target="_balank">Github</Button>
 
                         </CardActions>
                     </Card>
@@ -46,7 +46,7 @@ class Projects extends Component {
             </CardText>
                         <CardActions border>
 
-                            <Button colored href='https://google.com' target="_balank">Github</Button>
+                            <Button colored href='https://github.com/Raymondpp/moduleTwo' target="_balank">Github</Button>
 
                         </CardActions>
                     </Card>

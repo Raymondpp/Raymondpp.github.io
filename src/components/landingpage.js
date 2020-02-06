@@ -21,17 +21,17 @@ class Landing extends Component {
 
                             <div className="social-links">
                                 {/* LinkedIn */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.linkedin.com/in/raymondpp/" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a>
 
                                 {/* GitHub */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/Raymondpp" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github" aria-hidden="true" />
                                 </a>
 
                                 {/* Instagram */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.instagram.com/raymondzzyp/" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-instagram" aria-hidden="true" />
                                 </a>
 
