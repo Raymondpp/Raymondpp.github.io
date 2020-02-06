@@ -17,7 +17,7 @@ class Projects extends Component {
                         <CardTitle style={{
                             color: '#fff', height: '176px', background:
                                 'url(https://reactjs.org/logo-og.png) center / cover'
-                        }}> My pofolio Website</CardTitle>
+                        }}> My portfolio Website</CardTitle>
                         <CardText style={{fontFamily: 'Ubuntu'}}>
                             Portfolio website with React Router v4 and Material design
                     </CardText>
