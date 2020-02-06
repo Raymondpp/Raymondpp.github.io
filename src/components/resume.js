@@ -22,7 +22,7 @@ class Resume extends Component {
             <div>
 
                 <Document
-                    file="./RaymondZhou-CV.pdf"
+                    file="../RaymondZhou-CV.pdf"
                     onLoadSuccess={this.onDocumentLoadSuccess}
                 >
 
