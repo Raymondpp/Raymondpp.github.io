@@ -22,7 +22,7 @@ class Resume extends Component {
             <div>
 
                 <Document
-                    file="../RaymondZhou-CV.pdf"
+                    file="../Resume.pdf"
                     onLoadSuccess={this.onDocumentLoadSuccess}
                 >
 
@@ -35,7 +35,7 @@ class Resume extends Component {
 
                 </Document>
                 <div className="resume-download">
-                <a href="../RaymondZhou-CV.pdf" target="_blank">
+                <a href="../Resume.pdf" target="_blank">
                     <i className="fa fa-download" aria-hidden="true" /> 
                     Download My Resume
                 </a>
